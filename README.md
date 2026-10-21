@@ -1,26 +1,22 @@
-# Hi, I'm Naman 👋
+# Naman Kumar Mahto
 
-I’m a developer who enjoys building useful software for real-world problems. Many of my projects explore **climate tech, carbon tracking, and sustainability**, alongside apps and platforms for everyday needs.
+Software developer focused on building practical applications across climate technology, sustainability, and digital products. I enjoy taking ideas from concept to implementation and continuously improving through hands-on work.
 
-## Featured projects
+## Selected Projects
 
-- 🌱 [CarbaCount](https://github.com/namankumarmahto/carbacount_beta) — a carbon tracking project.
-- 🌍 [Carbon Footprint Tracker](https://github.com/namankumarmahto/Carbon-Footprint-Tracker) — exploring ways to track environmental impact.
-- 🌊 [Blue Carbon](https://github.com/namankumarmahto/Blue_Carbon) — a project focused on blue carbon.
-- 🤝 [Farmers to Retailers](https://github.com/namankumarmahto/farmers_to_retailers) — a platform connecting farmers and retailers.
-- 📚 [NEET Timer](https://github.com/namankumarmahto/neet_timer) — a study timer app.
+- **[CarbaCount](https://github.com/namankumarmahto/carbacount_beta)** — Carbon tracking project.
+- **[Carbon Footprint Tracker](https://github.com/namankumarmahto/Carbon-Footprint-Tracker)** — Application focused on tracking environmental impact.
+- **[Blue Carbon](https://github.com/namankumarmahto/Blue_Carbon)** — Project exploring blue carbon and climate solutions.
+- **[Farmers to Retailers](https://github.com/namankumarmahto/farmers_to_retailers)** — Platform designed to connect farmers and retailers.
+- **[Skill Swap Platform](https://github.com/namankumarmahto/-Skill-Swap-Platform)** — Application for sharing skills and requesting peer-to-peer learning.
 
-## What I’m interested in
+## Areas of Interest
 
-- Building practical products from idea to implementation
 - Climate technology and sustainability
-- Learning new tools and improving through hands-on projects
+- Product development and application engineering
+- Building accessible tools that address practical needs
 
-## Find me
+## Contact
 
-- [GitHub](https://github.com/namankumarmahto)
 - [LinkedIn](https://www.linkedin.com/in/naman-kumar-mahto)
-
----
-
-*Always learning and building.*
+- [GitHub](https://github.com/namankumarmahto)
